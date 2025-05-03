@@ -1,0 +1,8 @@
+<div style="width:70%">
+    <ul>
+        <li *ngFor="let product of allproducts()">
+            <a [routerLink]="[`${product.id}`]">{{product.title}}</a>
+            <button (click)="addToCart(product)">Add To Cart</button>
+        </li>
+    </ul>
+</div>
