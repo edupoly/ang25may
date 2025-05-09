@@ -1,0 +1,14 @@
+<ul class="d-flex flex-wrap justify-content-evenly">
+    @for (course of allcourses;track course.id){
+        <div class="card m-4" style="width: 18rem;">
+            <img [src]="course.thumbnail_image" style="height:10rem" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">{{course.title}}</h5>
+              <p class="card-text">
+                {{course.description}}
+                </p>
+              <a [routerLink]="['courseDetails',course.id]" class="btn btn-primary">Explore</a>
+            </div>
+          </div>
+    }
+</ul>

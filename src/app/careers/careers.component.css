@@ -1,0 +1,77 @@
+/* Basic styling for the careers page */
+.careers-container {
+    padding: 20px;
+    font-family: sans-serif;
+  }
+  
+  .careers-container h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .careers-container p {
+    color: #666;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .job-posting {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .job-posting h3 {
+    color: #007bff;
+    margin-top: 0;
+  }
+  
+  .job-posting p {
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  
+  .job-posting h4 {
+    color: #555;
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+  
+  .job-posting ul {
+    list-style: disc;
+    margin-left: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .job-posting li {
+    margin-bottom: 5px;
+    color: #444;
+  }
+  
+  .apply-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .apply-button:hover {
+    background-color: #218838;
+  }
+  
+  /* Styling for when there are no jobs */
+  .no-jobs {
+    text-align: center;
+    color: #999;
+    font-style: italic;
+  }
+  

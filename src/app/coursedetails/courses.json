@@ -1,0 +1,628 @@
+[
+    {
+      "id": "course001",
+      "title": "Introduction to Python Programming",
+      "price": 49.99,
+      "trainer": "Dr. Anya Sharma",
+      "thumbnail_image": "https://5.imimg.com/data5/SELLER/Default/2023/1/BB/MM/EE/16435775/python-training-service.png",
+      "description": "Learn the fundamentals of Python programming, including data types, control flow, functions, and object-oriented programming. This course is perfect for beginners.",
+      "course_curriculum": [
+        "Module 1: Getting Started with Python",
+        "Module 2: Data Types and Variables",
+        "Module 3: Control Flow (if, else, loops)",
+        "Module 4: Functions and Modules",
+        "Module 5: Object-Oriented Programming basics",
+        "Module 6: File Handling",
+        "Module 7: Introduction to Libraries (NumPy, Pandas)",
+        "Module 8: Error Handling and Debugging"
+      ],
+      "assignments": [
+        "Assignment 1: Write a Python script to calculate the factorial of a number.",
+        "Assignment 2: Create a function that checks if a string is a palindrome.",
+        "Assignment 3: Implement a simple class for a 'Book' with attributes like title, author, and ISBN.",
+        "Assignment 4: Write a program to read data from a CSV file and perform basic analysis.",
+        "Assignment 5: Debug a provided Python script with intentional errors."
+      ]
+    },
+    {
+      "id": "course002",
+      "title": "Web Development with React",
+      "price": 99.99,
+      "trainer": "Mr. Rajeev Gupta",
+      "thumbnail_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4K29UFccTWSZT5JcHfHHr88TAHkHmMLVVA&s",
+      "description": "Master front-end web development using the popular React library. Build interactive user interfaces and single-page applications.",
+      "course_curriculum": [
+        "Module 1: Introduction to React and JSX",
+        "Module 2: Components and Props",
+        "Module 3: State and Lifecycle Methods",
+        "Module 4: Handling Events",
+        "Module 5: Working with Forms",
+        "Module 6: React Router",
+        "Module 7: State Management with Redux",
+        "Module 8: Fetching Data from APIs",
+        "Module 9: Building a Simple React Application"
+      ],
+      "assignments": [
+        "Assignment 1: Create a simple React component that displays dynamic data.",
+        "Assignment 2: Build a counter application using React state.",
+        "Assignment 3: Implement navigation between different pages using React Router.",
+        "Assignment 4: Connect your React app to a public API and display the data.",
+        "Assignment 5: Refactor a functional component into a class component (and vice versa)."
+      ]
+    },
+    {
+      "id": "course003",
+      "title": "Data Science Fundamentals",
+      "price": 149.99,
+      "trainer": "Ms. Priya Singh",
+      "thumbnail_image": "https://media.licdn.com/dms/image/v2/D4E12AQEMFmpnkGo3rQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1731974350384?e=2147483647&v=beta&t=M7Q3Zgt-k4KDppw9iKjdKEZoecqDcpz93Df-6ZXEswY",
+      "description": "An introduction to the core concepts and tools of data science, covering data analysis, visualization, and machine learning basics.",
+      "course_curriculum": [
+        "Module 1: What is Data Science?",
+        "Module 2: Data Collection and Cleaning",
+        "Module 3: Exploratory Data Analysis (EDA)",
+        "Module 4: Data Visualization with Matplotlib and Seaborn",
+        "Module 5: Introduction to Statistical Concepts",
+        "Module 6: Machine Learning Basics (Supervised Learning)",
+        "Module 7: Machine Learning Basics (Unsupervised Learning)",
+        "Module 8: Model Evaluation and Selection"
+      ],
+      "assignments": [
+        "Assignment 1: Clean and prepare a given dataset for analysis.",
+        "Assignment 2: Create visualizations to represent key insights from the data.",
+        "Assignment 3: Implement a simple linear regression model.",
+        "Assignment 4: Perform clustering on a dataset using K-Means.",
+        "Assignment 5: Evaluate the performance of a classification model."
+      ]
+    },
+    {
+      "id": "course004",
+      "title": "Digital Marketing Essentials",
+      "price": 79.99,
+      "trainer": "Mr. Alok Mehta",
+      "thumbnail_image": "https://www.oxfordinstitute.in/img/data-science-course.jpg",
+      "description": "Learn the key strategies and tactics for effective digital marketing, including SEO, social media, content marketing, and email marketing.",
+      "course_curriculum": [
+        "Module 1: Introduction to Digital Marketing",
+        "Module 2: Search Engine Optimization (SEO)",
+        "Module 3: Social Media Marketing",
+        "Module 4: Content Marketing",
+        "Module 5: Email Marketing",
+        "Module 6: Pay-Per-Click (PPC) Advertising",
+        "Module 7: Measuring Digital Marketing Success",
+        "Module 8: Creating a Digital Marketing Strategy"
+      ],
+      "assignments": [
+        "Assignment 1: Conduct keyword research for a hypothetical business.",
+        "Assignment 2: Develop a content calendar for a social media campaign.",
+        "Assignment 3: Write an email marketing sequence for a product launch.",
+        "Assignment 4: Analyze a Google Analytics report for a website.",
+        "Assignment 5: Outline a complete digital marketing strategy for a small business."
+      ]
+    },
+    {
+      "id": "course005",
+      "title": "Graphic Design with Adobe Photoshop",
+      "price": 89.99,
+      "trainer": "Ms. Sneha Reddy",
+      "thumbnail_image": "https://www.globalcareercounsellor.com/blog/wp-content/uploads/2018/05/Online-Career-Counselling-course.jpg",
+      "description": "Master the industry-standard graphic design software, Adobe Photoshop. Learn image editing, manipulation, and creation techniques.",
+      "course_curriculum": [
+        "Module 1: Introduction to Photoshop Interface and Tools",
+        "Module 2: Working with Layers and Selections",
+        "Module 3: Image Adjustments and Retouching",
+        "Module 4: Using Masks and Blend Modes",
+        "Module 5: Working with Text and Shapes",
+        "Module 6: Creating Digital Paintings and Illustrations",
+        "Module 7: Designing for Web and Print",
+        "Module 8: Exporting and Saving Files"
+      ],
+      "assignments": [
+        "Assignment 1: Create a collage using different images and layer masks.",
+        "Assignment 2: Retouch a portrait image to enhance its appearance.",
+        "Assignment 3: Design a simple social media graphic.",
+        "Assignment 4: Create a digital painting using Photoshop brushes.",
+        "Assignment 5: Design a basic flyer for an event."
+      ]
+    },
+    {
+      "id": "course006",
+      "title": "Mobile App Development with Flutter",
+      "price": 129.99,
+      "trainer": "Mr. Vikram Chatterjee",
+      "thumbnail_image": "https://www.globalcareercounsellor.com/blog/wp-content/uploads/2018/05/Online-Career-Counselling-course.jpg",
+      "description": "Learn to build beautiful, natively compiled applications for mobile, web, and desktop from a single codebase using Flutter.",
+      "course_curriculum": [
+        "Module 1: Introduction to Flutter and Dart",
+        "Module 2: Building UI with Widgets",
+        "Module 3: Handling User Input and State",
+        "Module 4: Navigation and Routing",
+        "Module 5: Working with APIs and Asynchronous Data",
+        "Module 6: State Management (Provider, BLoC)",
+        "Module 7: Building Responsive UIs",
+        "Module 8: Deployment to App Stores"
+      ],
+      "assignments": [
+        "Assignment 1: Create a basic 'Hello World' Flutter app.",
+        "Assignment 2: Build a simple to-do list app with add and delete functionality.",
+        "Assignment 3: Implement navigation between two screens.",
+        "Assignment 4: Fetch data from a dummy API and display it in a list.",
+        "Assignment 5: Implement a simple state management solution in your app."
+      ]
+    },
+    {
+      "id": "course007",
+      "title": "Cloud Computing with AWS",
+      "price": 159.99,
+      "trainer": "Ms. Aarti Desai",
+      "thumbnail_image": "https://www.globalcareercounsellor.com/blog/wp-content/uploads/2018/05/Online-Career-Counselling-course.jpg",
+      "description": "Get hands-on experience with Amazon Web Services (AWS), the leading cloud computing platform. Learn about key AWS services and cloud architecture.",
+      "course_curriculum": [
+        "Module 1: Introduction to Cloud Computing and AWS",
+        "Module 2: AWS Global Infrastructure",
+        "Module 3: Amazon EC2 (Elastic Compute Cloud)",
+        "Module 4: Amazon S3 (Simple Storage Service)",
+        "Module 5: Amazon RDS (Relational Database Service)",
+        "Module 6: Networking in AWS (VPC)",
+        "Module 7: AWS Identity and Access Management (IAM)",
+        "Module 8: Introduction to Serverless Computing (Lambda)"
+      ],
+      "assignments": [
+        "Assignment 1: Launch and connect to an EC2 instance.",
+        "Assignment 2: Create an S3 bucket and upload/download files.",
+        "Assignment 3: Set up a simple VPC with subnets and a route table.",
+        "Assignment 4: Create an IAM user with specific permissions.",
+        "Assignment 5: Deploy a simple Lambda function."
+      ]
+    },
+    {
+      "id": "course008",
+      "title": "Cybersecurity Fundamentals",
+      "price": 109.99,
+      "trainer": "Mr. Sanjay Kapoor",
+      "thumbnail_image": "https://www.globalcareercounsellor.com/blog/wp-content/uploads/2018/05/Online-Career-Counselling-course.jpg",
+      "description": "Understand the basics of cybersecurity, including common threats, vulnerabilities, and protective measures. Learn how to secure systems and data.",
+      "course_curriculum": [
+        "Module 1: Introduction to Cybersecurity",
+        "Module 2: Types of Cyber Threats",
+        "Module 3: Network Security Basics",
+        "Module 4: Endpoint Security",
+        "Module 5: Web Security Basics",
+        "Module 6: Cryptography Fundamentals",
+        "Module 7: Security Best Practices",
+        "Module 8: Incident Response Basics"
+      ],
+      "assignments": [
+        "Assignment 1: Research and report on a recent major cyber attack.",
+        "Assignment 2: Explain the difference between symmetric and asymmetric encryption.",
+        "Assignment 3: Outline steps to secure a home Wi-Fi network.",
+        "Assignment 4: Identify potential phishing emails and explain why they are suspicious.",
+        "Assignment 5: Develop a simple incident response plan for a small office."
+      ]
+    },
+    {
+      "id": "course009",
+      "title": "Machine Learning with TensorFlow",
+      "price": 179.99,
+      "trainer": "Dr. Rohan Joshi",
+      "thumbnail_image": "https://www.globalcareercounsellor.com/blog/wp-content/uploads/2018/05/Online-Career-Counselling-course.jpg",
+      "description": "Dive into the world of machine learning using TensorFlow, Google's open-source library. Build and train various machine learning models.",
+      "course_curriculum": [
+        "Module 1: Introduction to Machine Learning and TensorFlow",
+        "Module 2: TensorFlow Basics (Tensors, Operations)",
+        "Module 3: Building and Training Models",
+        "Module 4: Introduction to Neural Networks",
+        "Module 5: Convolutional Neural Networks (CNNs)",
+        "Module 6: Recurrent Neural Networks (RNNs)",
+        "Module 7: Model Deployment",
+        "Module 8: Advanced Topics and Case Studies"
+      ],
+      "assignments": [
+        "Assignment 1: Build a simple linear regression model using TensorFlow.",
+        "Assignment 2: Implement a basic feedforward neural network.",
+        "Assignment 3: Build and train a CNN for image classification.",
+        "Assignment 4: Implement an RNN for sequence prediction.",
+        "Assignment 5: Explore transfer learning with a pre-trained model."
+      ]
+    },
+    {
+      "id": "course010",
+      "title": "Content Writing for the Web",
+      "price": 59.99,
+      "trainer": "Ms. Natasha Rao",
+      "thumbnail_image": "https://www.globalcareercounsellor.com/blog/wp-content/uploads/2018/05/Online-Career-Counselling-course.jpg",
+      "description": "Learn how to write engaging and effective content for websites, blogs, and social media. Focus on readability, SEO, and audience engagement.",
+      "course_curriculum": [
+        "Module 1: Introduction to Web Content Writing",
+        "Module 2: Understanding Your Audience",
+        "Module 3: Writing for Readability and Clarity",
+        "Module 4: SEO for Content Writers",
+        "Module 5: Blog Post Writing",
+        "Module 6: Website Copywriting",
+        "Module 7: Social Media Content",
+        "Module 8: Editing and Proofreading"
+      ],
+      "assignments": [
+        "Assignment 1: Write a short blog post on a given topic.",
+        "Assignment 2: Optimize an existing piece of content for SEO.",
+        "Assignment 3: Draft website copy for a 'About Us' page.",
+        "Assignment 4: Create a week's worth of social media posts.",
+        "Assignment 5: Edit and proofread a peer's written content."
+      ]
+    },
+    {
+      "id": "course011",
+      "title": "SQL for Data Analysis",
+      "price": 69.99,
+      "trainer": "Mr. Anil Kumar",
+      "thumbnail_image": "https://www.globalcareercounsellor.com/blog/wp-content/uploads/2018/05/Online-Career-Counselling-course.jpg",
+      "description": "Learn the essential SQL skills needed for data extraction, manipulation, and analysis. Work with relational databases and query data effectively.",
+      "course_curriculum": [
+        "Module 1: Introduction to Databases and SQL",
+        "Module 2: Retrieving Data with SELECT",
+        "Module 3: Filtering and Sorting Data",
+        "Module 4: Working with Multiple Tables (JOINs)",
+        "Module 5: Aggregating Data",
+        "Module 6: Modifying Data (INSERT, UPDATE, DELETE)",
+        "Module 7: Database Design Basics",
+        "Module 8: Advanced SQL Concepts"
+      ],
+      "assignments": [
+        "Assignment 1: Write a SQL query to select specific columns from a table.",
+        "Assignment 2: Filter data using WHERE clauses and logical operators.",
+        "Assignment 3: Perform a JOIN operation between two tables.",
+        "Assignment 4: Calculate aggregate functions like SUM, AVG, and COUNT.",
+        "Assignment 5: Write SQL statements to insert new data into a table."
+      ]
+    },
+    {
+      "id": "course012",
+      "title": "Project Management Fundamentals",
+      "price": 119.99,
+      "trainer": "Ms. Deepika Nair",
+      "thumbnail_image": "https://www.globalcareercounsellor.com/blog/wp-content/uploads/2018/05/Online-Career-Counselling-course.jpg",
+      "description": "Learn the core principles and practices of project management, from planning and execution to monitoring and closing projects.",
+      "course_curriculum": [
+        "Module 1: Introduction to Project Management",
+        "Module 2: Project Life Cycle",
+        "Module 3: Project Planning and Scope Definition",
+        "Module 4: Scheduling and Resource Allocation",
+        "Module 5: Risk Management",
+        "Module 6: Project Execution and Monitoring",
+        "Module 7: Communication and Stakeholder Management",
+        "Module 8: Project Closing and Evaluation"
+      ],
+      "assignments": [
+        "Assignment 1: Define the scope for a hypothetical project.",
+        "Assignment 2: Create a work breakdown structure (WBS).",
+        "Assignment 3: Identify potential risks for a project and propose mitigation strategies.",
+        "Assignment 4: Develop a communication plan for a project team.",
+        "Assignment 5: Conduct a post-project evaluation."
+      ]
+    },
+    {
+      "id": "course013",
+      "title": "UI/UX Design Principles",
+      "price": 94.99,
+      "trainer": "Mr. Kabir Singh",
+      "thumbnail_image": "https://example.com/thumbnails/uiux.jpg",
+      "description": "Explore the fundamental principles of User Interface (UI) and User Experience (UX) design. Learn to create user-centered digital products.",
+      "course_curriculum": [
+        "Module 1: Introduction to UI/UX Design",
+        "Module 2: User Research and Personas",
+        "Module 3: Information Architecture",
+        "Module 4: Wireframing and Prototyping",
+        "Module 5: Visual Design Principles",
+        "Module 6: Usability Testing",
+        "Module 7: Interaction Design",
+        "Module 8: Design Tools and Workflow"
+      ],
+      "assignments": [
+        "Assignment 1: Create user personas for a target audience.",
+        "Assignment 2: Develop a sitemap for a website.",
+        "Assignment 3: Design low-fidelity wireframes for a mobile app screen.",
+        "Assignment 4: Conduct a small-scale usability test.",
+        "Assignment 5: Create a high-fidelity prototype of a user flow."
+      ]
+    },
+    {
+      "id": "course014",
+      "title": "Java Programming for Beginners",
+      "price": 74.99,
+      "trainer": "Ms. Pooja Joshi",
+      "thumbnail_image": "https://example.com/thumbnails/java.jpg",
+      "description": "Get started with Java programming, a widely used language for enterprise applications, Android development, and more. Learn core concepts and syntax.",
+      "course_curriculum": [
+        "Module 1: Introduction to Java and JVM",
+        "Module 2: Data Types and Operators",
+        "Module 3: Control Flow Statements",
+        "Module 4: Object-Oriented Programming in Java",
+        "Module 5: Arrays and Collections",
+        "Module 6: Exception Handling",
+        "Module 7: File I/O",
+        "Module 8: Introduction to Java Libraries"
+      ],
+      "assignments": [
+        "Assignment 1: Write a Java program to print 'Hello, World!'.",
+        "Assignment 2: Implement a class for a 'Student' with relevant attributes and methods.",
+        "Assignment 3: Write a program to sort an array of numbers.",
+        "Assignment 4: Handle potential exceptions in a Java program.",
+        "Assignment 5: Write data to a text file using Java."
+      ]
+    },
+    {
+      "id": "course015",
+      "title": "Introduction to Blockchain Technology",
+      "price": 139.99,
+      "trainer": "Mr. Anand Desai",
+      "thumbnail_image": "https://example.com/thumbnails/blockchain.jpg",
+      "description": "Understand the fundamental concepts behind blockchain technology, including cryptocurrencies, smart contracts, and decentralized applications.",
+      "course_curriculum": [
+        "Module 1: What is Blockchain?",
+        "Module 2: How Blockchain Works (Blocks, Hashing, Consensus)",
+        "Module 3: Cryptography in Blockchain",
+        "Module 4: Bitcoin and Cryptocurrencies",
+        "Module 5: Ethereum and Smart Contracts",
+        "Module 6: Decentralized Applications (DApps)",
+        "Module 7: Blockchain Use Cases beyond Cryptocurrency",
+        "Module 8: Challenges and Future of Blockchain"
+      ],
+      "assignments": [
+        "Assignment 1: Explain the concept of a distributed ledger.",
+        "Assignment 2: Describe the process of mining in a blockchain.",
+        "Assignment 3: Research and present on a real-world application of blockchain.",
+        "Assignment 4: Explain the difference between public and private blockchains.",
+        "Assignment 5: Discuss the potential impact of blockchain on a specific industry."
+      ]
+    },
+    {
+      "id": "course016",
+      "title": "Public Speaking and Presentation Skills",
+      "price": 44.99,
+      "trainer": "Ms. Rhea Sharma",
+      "thumbnail_image": "https://example.com/thumbnails/publicspeaking.jpg",
+      "description": "Improve your confidence and effectiveness in public speaking and giving presentations. Learn techniques for planning, delivery, and engaging your audience.",
+      "course_curriculum": [
+        "Module 1: Overcoming Public Speaking Anxiety",
+        "Module 2: Structuring Your Presentation",
+        "Module 3: Delivering with Confidence",
+        "Module 4: Engaging Your Audience",
+        "Module 5: Using Visual Aids Effectively",
+        "Module 6: Handling Questions and Answers",
+        "Module 7: Practice and Feedback",
+        "Module 8: Virtual Presentations"
+      ],
+      "assignments": [
+        "Assignment 1: Deliver a short introductory speech.",
+        "Assignment 2: Outline a presentation on a topic of your choice.",
+        "Assignment 3: Record and evaluate a practice presentation.",
+        "Assignment 4: Prepare and deliver a presentation with visual aids.",
+        "Assignment 5: Practice handling challenging questions after a presentation."
+      ]
+    },
+    {
+      "id": "course017",
+      "title": "Introduction to Artificial Intelligence",
+      "price": 169.99,
+      "trainer": "Dr. Vijay Gupta",
+      "thumbnail_image": "https://example.com/thumbnails/ai.jpg",
+      "description": "Gain a foundational understanding of Artificial Intelligence (AI), its history, key concepts, and various applications.",
+      "course_curriculum": [
+        "Module 1: What is AI?",
+        "Module 2: History of AI",
+        "Module 3: AI vs. Machine Learning vs. Deep Learning",
+        "Module 4: Problem Solving and Search Algorithms",
+        "Module 5: Knowledge Representation and Reasoning",
+        "Module 6: Natural Language Processing (NLP) Basics",
+        "Module 7: Computer Vision Basics",
+        "Module 8: Ethical Considerations in AI"
+      ],
+      "assignments": [
+        "Assignment 1: Define AI in your own words and provide an example.",
+        "Assignment 2: Compare and contrast different search algorithms (e.g., BFS vs. DFS).",
+        "Assignment 3: Research and summarize a recent breakthrough in AI.",
+        "Assignment 4: Explain a simple application of NLP.",
+        "Assignment 5: Discuss an ethical challenge related to AI."
+      ]
+    },
+    {
+      "id": "course018",
+      "title": "Excel for Data Analysis",
+      "price": 54.99,
+      "trainer": "Ms. Neha Patel",
+      "thumbnail_image": "https://example.com/thumbnails/excel.jpg",
+      "description": "Master data analysis techniques using Microsoft Excel. Learn formulas, functions, pivot tables, and data visualization in spreadsheets.",
+      "course_curriculum": [
+        "Module 1: Introduction to Excel Interface",
+        "Module 2: Working with Formulas and Functions",
+        "Module 3: Data Sorting and Filtering",
+        "Module 4: Using Pivot Tables for Data Summarization",
+        "Module 5: Creating Charts and Graphs",
+        "Module 6: Data Validation",
+        "Module 7: Using Lookup Functions (VLOOKUP, HLOOKUP)",
+        "Module 8: Basic Data Analysis Techniques"
+      ],
+      "assignments": [
+        "Assignment 1: Create a spreadsheet with basic formulas.",
+        "Assignment 2: Sort and filter a dataset based on multiple criteria.",
+        "Assignment 3: Create a pivot table to summarize sales data.",
+        "Assignment 4: Create a chart to visualize trends in data.",
+        "Assignment 5: Use VLOOKUP to find information in a table."
+      ]
+    },
+    {
+      "id": "course019",
+      "title": "Photography Fundamentals",
+      "price": 64.99,
+      "trainer": "Mr. Aditya Singh",
+      "thumbnail_image": "https://example.com/thumbnails/photography.jpg",
+      "description": "Learn the basics of photography, including camera settings, composition, lighting, and editing. Capture stunning images.",
+      "course_curriculum": [
+        "Module 1: Introduction to Your Camera",
+        "Module 2: Understanding Aperture, Shutter Speed, and ISO",
+        "Module 3: Principles of Composition",
+        "Module 4: Working with Natural Light",
+        "Module 5: Introduction to Portrait Photography",
+        "Module 6: Introduction to Landscape Photography",
+        "Module 7: Basic Photo Editing (using free tools)",
+        "Module 8: Sharing and Storing Photos"
+      ],
+      "assignments": [
+        "Assignment 1: Take photos demonstrating different aperture settings.",
+        "Assignment 2: Capture images showcasing various shutter speeds.",
+        "Assignment 3: Take photos applying the rule of thirds.",
+        "Assignment 4: Practice taking portraits using natural light.",
+        "Assignment 5: Edit a few of your photos to improve their look."
+      ]
+    },
+    {
+      "id": "course020",
+      "title": "Creative Writing Workshop",
+      "price": 59.99,
+      "trainer": "Ms. Kavita Rao",
+      "thumbnail_image": "https://example.com/thumbnails/creativewriting.jpg",
+      "description": "Unlock your creativity and improve your writing skills in this interactive workshop. Explore different genres and writing techniques.",
+      "course_curriculum": [
+        "Module 1: Finding Your Writing Voice",
+        "Module 2: Developing Characters",
+        "Module 3: Crafting Engaging Plots",
+        "Module 4: Setting and Atmosphere",
+        "Module 5: Writing Dialogue",
+        "Module 6: Exploring Different Genres (Short Story, Poetry)",
+        "Module 7: Giving and Receiving Feedback",
+        "Module 8: Revising and Editing Your Work"
+      ],
+      "assignments": [
+        "Assignment 1: Write a short character sketch.",
+        "Assignment 2: Develop a plot outline for a story.",
+        "Assignment 3: Write a scene focusing on dialogue.",
+        "Assignment 4: Write a short poem.",
+        "Assignment 5: Provide constructive feedback on a peer's writing."
+      ]
+    },
+    {
+      "id": "course021",
+      "title": "Financial Literacy for Beginners",
+      "price": 39.99,
+      "trainer": "Mr. Suresh Menon",
+      "thumbnail_image": "https://example.com/thumbnails/finance.jpg",
+      "description": "Learn essential personal finance skills, including budgeting, saving, investing basics, and managing debt. Take control of your financial future.",
+      "course_curriculum": [
+        "Module 1: Understanding Your Relationship with Money",
+        "Module 2: Creating a Budget",
+        "Module 3: Saving Strategies",
+        "Module 4: Introduction to Investing",
+        "Module 5: Managing Debt",
+        "Module 6: Understanding Credit Scores",
+        "Module 7: Financial Goal Setting",
+        "Module 8: Planning for the Future (Retirement, etc.)"
+      ],
+      "assignments": [
+        "Assignment 1: Track your spending for one week.",
+        "Assignment 2: Create a personal monthly budget.",
+        "Assignment 3: Set a short-term and a long-term financial goal.",
+        "Assignment 4: Research different types of savings accounts.",
+        "Assignment 5: Develop a plan to pay off a hypothetical debt."
+      ]
+    },
+    {
+      "id": "course022",
+      "title": "Introduction to Cybersecurity for Everyone",
+      "price": 49.99,
+      "trainer": "Ms. Aisha Khan",
+      "thumbnail_image": "https://example.com/thumbnails/cybersecurity_everyone.jpg",
+      "description": "Understand the basic cybersecurity risks you face in your daily life and learn practical steps to protect yourself and your data online.",
+      "course_curriculum": [
+        "Module 1: Why Cybersecurity Matters to You",
+        "Module 2: Protecting Your Devices",
+        "Module 3: Safe Browse Habits",
+        "Module 4: Recognizing Phishing and Scams",
+        "Module 5: Securing Your Online Accounts",
+        "Module 6: Protecting Your Privacy Online",
+        "Module 7: Understanding Common Malware",
+        "Module 8: What to Do in Case of a Security Incident"
+      ],
+      "assignments": [
+        "Assignment 1: Check and improve the security settings on your smartphone.",
+        "Assignment 2: Identify a suspicious email and explain why it's a potential threat.",
+        "Assignment 3: Set up strong, unique passwords for your important online accounts.",
+        "Assignment 4: Review your social media privacy settings.",
+        "Assignment 5: Create a plan for backing up your important data."
+      ]
+    },
+    {
+      "id": "course023",
+      "title": "Yoga and Mindfulness for Stress Relief",
+      "price": 29.99,
+      "trainer": "Mr. Rohan Patel",
+      "thumbnail_image": "https://example.com/thumbnails/yoga.jpg",
+      "description": "Learn simple yoga poses and mindfulness techniques to reduce stress and improve your overall well-being. Suitable for all levels.",
+      "course_curriculum": [
+        "Module 1: Introduction to Yoga and Mindfulness",
+        "Module 2: Basic Yoga Poses (Asanas)",
+        "Module 3: Breathing Exercises (Pranayama)",
+        "Module 4: Introduction to Meditation",
+        "Module 5: Mindfulness in Daily Life",
+        "Module 6: Yoga for Flexibility and Strength",
+        "Module 7: Yoga for Relaxation and Sleep",
+        "Module 8: Creating Your Own Practice"
+      ],
+      "assignments": [
+        "Assignment 1: Practice 5 basic yoga poses daily for a week.",
+        "Assignment 2: Spend 5 minutes practicing mindful breathing each day.",
+        "Assignment 3: Engage in a short guided meditation session.",
+        "Assignment 4: Identify one daily activity where you can practice mindfulness.",
+        "Assignment 5: Create a short personal yoga and mindfulness routine."
+      ]
+    },
+    {
+      "id": "course024",
+      "title": "Introduction to Data Structures and Algorithms",
+      "price": 114.99,
+      "trainer": "Dr. Anjali Rao",
+      "thumbnail_image": "https://example.com/thumbnails/dsalgo.jpg",
+      "description": "Learn the fundamental data structures and algorithms that are essential for efficient programming and problem-solving.",
+      "course_curriculum": [
+        "Module 1: Introduction to Data Structures and Algorithms",
+        "Module 2: Arrays and Linked Lists",
+        "Module 3: Stacks and Queues",
+        "Module 4: Trees (Binary Trees, BSTs)",
+        "Module 5: Graphs and Graph Traversal (BFS, DFS)",
+        "Module 6: Sorting Algorithms",
+        "Module 7: Searching Algorithms",
+        "Module 8: Algorithm Analysis (Time and Space Complexity)"
+      ],
+      "assignments": [
+        "Assignment 1: Implement a linked list in your preferred programming language.",
+        "Assignment 2: Implement stack and queue data structures.",
+        "Assignment 3: Implement a binary search tree.",
+        "Assignment 4: Implement a sorting algorithm (e.g., Bubble Sort, Merge Sort).",
+        "Assignment 5: Analyze the time complexity of a simple algorithm."
+      ]
+    },
+    {
+      "id": "course025",
+      "title": "Blogging for Beginners",
+      "price": 49.99,
+      "trainer": "Mr. Sameer Khan",
+      "thumbnail_image": "https://example.com/thumbnails/blogging.jpg",
+      "description": "Learn how to start and grow a successful blog. Cover topics from choosing a niche and setting up your blog to creating content and promoting it.",
+      "course_curriculum": [
+        "Module 1: What is Blogging and Why Start One?",
+        "Module 2: Choosing Your Niche",
+        "Module 3: Setting Up Your Blog (Platform Options)",
+        "Module 4: Creating Engaging Blog Content",
+        "Module 5: Basic SEO for Bloggers",
+        "Module 6: Promoting Your Blog",
+        "Module 7: Building an Audience",
+        "Module 8: Monetizing Your Blog (Optional)"
+      ],
+      "assignments": [
+        "Assignment 1: Choose a niche for your hypothetical blog and explain your reasoning.",
+        "Assignment 2: Outline the structure of your first blog post.",
+        "Assignment 3: Write your first blog post.",
+        "Assignment 4: Create a plan for promoting your blog on social media.",
+        "Assignment 5: Identify potential topics for your next five blog posts."
+      ]
+    }
+  ]

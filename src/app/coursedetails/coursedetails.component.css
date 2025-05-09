@@ -1,0 +1,14 @@
+/* Add any custom styles here if needed */
+/* Most styling is handled by Bootstrap classes in the HTML */
+
+/* Example: Adjust image size if necessary, though img-fluid handles responsiveness */
+.card .img-fluid {
+    min-height: 400px; /* Example max height */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
+  }
+  
+  /* Example: Add some padding to list items if default is too small */
+  .list-group-item {
+    padding: 10px 15px;
+  }
+  

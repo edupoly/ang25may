@@ -1,0 +1,30 @@
+<div class="careers-container">
+    <h2>Careers</h2>
+  
+    <p>Join our team and build the future with us!</p>
+  
+    <div *ngIf="jobPostings.length > 0; else noJobs">
+      <div *ngFor="let job of jobPostings" class="job-posting">
+        <h3>{{ job.title }}</h3>
+        <p><strong>Location:</strong> {{ job.location }}</p>
+        <p>{{ job.description }}</p>
+  
+        <h4>Requirements:</h4>
+        <ul>
+          <li *ngFor="let req of job.requirements">{{ req }}</li>
+        </ul>
+  
+        <h4>Responsibilities:</h4>
+        <ul>
+          <li *ngFor="let resp of job.responsibilities">{{ resp }}</li>
+        </ul>
+  
+        <button class="apply-button">Apply Now</button>
+      </div>
+    </div>
+  
+    <ng-template #noJobs>
+      <p>No job openings available at the moment. Please check back later!</p>
+    </ng-template>
+  </div>
+  

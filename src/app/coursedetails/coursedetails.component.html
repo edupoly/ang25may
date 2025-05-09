@@ -1,0 +1,41 @@
+<div class="card mb-3">
+    <div class="row g-0">
+      <div class="col-md-4">
+        <img [src]="course?.thumbnail_image" class="img-fluid rounded-start" alt="{{ course?.title }} Thumbnail">
+      </div>
+  
+      <div class="col-md-8">
+        <div class="card-body">
+          <h5 class="card-title">{{ course?.title }}</h5>
+  
+          <p class="card-text">
+            <strong>Trainer:</strong> {{ course?.trainer }}<br>
+            <strong>Price:</strong> {{ course?.price | currency:'USD':'symbol':'1.2-2' }}
+          </p>
+  
+          <p class="card-text">{{ course?.description }}</p>
+  
+          <div *ngIf="course?.course_curriculum && course.course_curriculum.length > 0">
+            <h6>Course Curriculum:</h6>
+            <ul class="list-group list-group-flush">
+              <li *ngFor="let item of course.course_curriculum" class="list-group-item">{{ item }}</li>
+            </ul>
+          </div>
+  
+          <div *ngIf="course?.assignments && course.assignments.length > 0">
+            <h6 class="mt-3">Assignments:</h6>
+            <ul class="list-group list-group-flush">
+              <li *ngFor="let assignment of course.assignments" class="list-group-item">{{ assignment }}</li>
+            </ul>
+          </div>
+  
+          <p class="card-text"><small class="text-muted">Course ID: {{ course?.id }}</small></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div *ngIf="!course" class="alert alert-warning" role="alert">
+    Course details are not available.
+  </div>
+  
